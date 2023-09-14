@@ -55,11 +55,6 @@ if (!$connection) {
 
 
 
- 		<button> here is checking buttons</button>
- 		<button> here is checking buttons</button>
- 		<button> here is checking buttons</button>
- 		<button> here is checking buttons</button>
- 		<button> here is checking buttons</button>
 
  		<h1> Show data here</h1>
  		<table border="2px">
