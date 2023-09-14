@@ -55,7 +55,9 @@ if (!$connection) {
 
 
 
-
+ 		<button> Export Here</button>
+ 		<button> Export Here</button>
+ 		<button> Export Here</button>
 
  		<h1> Show data here</h1>
  		<table border="2px">
